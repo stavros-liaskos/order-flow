@@ -1,3 +1,3 @@
 # order-flow
 
-who cares
+set up by https://github.com/bitjson/typescript-starter
